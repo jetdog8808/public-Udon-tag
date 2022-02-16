@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: adab709aa597c4c43b0dd8f7fe584576
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1x1
+    100002: 1x1_2
+    100004: 1x1_Instance
+    100006: 1x2
+    100008: 1x2_2
+    100010: 1x2_Instance
+    100012: 2_5x2
+    100014: 2_5x2_2
+    100016: 2_5x2_Instance
+    100018: 2x2
+    100020: 2x2_2
+    100022: 2x2_Instance
+    100024: Cube
+    100026: Cube_2
+    100028: Cube_Instance
+    100030: L_block
+    100032: L_block_2
+    100034: L_block_3
+    100036: L_block_4
+    100038: L_block_5
+    100040: L_block_6
+    100042: L_block_Instance
+    100044: L_block_Instance_1
+    100046: L_block_Instance_2
+    100048: L_block_Instance_3
+    100050: L_block_Instance_4
+    100052: long
+    100054: //RootNode
+    100056: Plane
+    100058: t_block
+    100060: t_block_2
+    100062: t_block_3
+    100064: t_block_4
+    100066: t_block_5
+    100068: t_block_Instance
+    100070: t_block_Instance_1
+    100072: t_block_Instance_2
+    100074: t_block_Instance_3
+    100076: tagger_spawn
+    400000: 1x1
+    400002: 1x1_2
+    400004: 1x1_Instance
+    400006: 1x2
+    400008: 1x2_2
+    400010: 1x2_Instance
+    400012: 2_5x2
+    400014: 2_5x2_2
+    400016: 2_5x2_Instance
+    400018: 2x2
+    400020: 2x2_2
+    400022: 2x2_Instance
+    400024: Cube
+    400026: Cube_2
+    400028: Cube_Instance
+    400030: L_block
+    400032: L_block_2
+    400034: L_block_3
+    400036: L_block_4
+    400038: L_block_5
+    400040: L_block_6
+    400042: L_block_Instance
+    400044: L_block_Instance_1
+    400046: L_block_Instance_2
+    400048: L_block_Instance_3
+    400050: L_block_Instance_4
+    400052: long
+    400054: //RootNode
+    400056: Plane
+    400058: t_block
+    400060: t_block_2
+    400062: t_block_3
+    400064: t_block_4
+    400066: t_block_5
+    400068: t_block_Instance
+    400070: t_block_Instance_1
+    400072: t_block_Instance_2
+    400074: t_block_Instance_3
+    400076: tagger_spawn
+    2100000: Mat
+    2100002: Mat.1
+    2100004: Mat.3
+    2100006: No Name
+    2100008: Mat.2
+    2100010: Mat.4
+    2100012: Mat.5
+    2300000: 1x1
+    2300002: 1x1_2
+    2300004: 1x2
+    2300006: 1x2_2
+    2300008: 2_5x2
+    2300010: 2_5x2_2
+    2300012: 2x2
+    2300014: 2x2_2
+    2300016: Cube
+    2300018: Cube_2
+    2300020: L_block
+    2300022: L_block_2
+    2300024: L_block_3
+    2300026: L_block_4
+    2300028: L_block_5
+    2300030: L_block_6
+    2300032: long
+    2300034: Plane
+    2300036: t_block
+    2300038: t_block_2
+    2300040: t_block_3
+    2300042: t_block_4
+    2300044: t_block_5
+    2300046: 1x1_Instance
+    2300048: 1x2_Instance
+    2300050: 2_5x2_Instance
+    2300052: 2x2_Instance
+    2300054: Cube_Instance
+    2300056: L_block_Instance
+    2300058: L_block_Instance_1
+    2300060: L_block_Instance_2
+    2300062: L_block_Instance_3
+    2300064: L_block_Instance_4
+    2300066: t_block_Instance
+    2300068: t_block_Instance_1
+    2300070: t_block_Instance_2
+    2300072: t_block_Instance_3
+    2300074: tagger_spawn
+    3300000: 1x1
+    3300002: 1x1_2
+    3300004: 1x2
+    3300006: 1x2_2
+    3300008: 2_5x2
+    3300010: 2_5x2_2
+    3300012: 2x2
+    3300014: 2x2_2
+    3300016: Cube
+    3300018: Cube_2
+    3300020: L_block
+    3300022: L_block_2
+    3300024: L_block_3
+    3300026: L_block_4
+    3300028: L_block_5
+    3300030: L_block_6
+    3300032: long
+    3300034: Plane
+    3300036: t_block
+    3300038: t_block_2
+    3300040: t_block_3
+    3300042: t_block_4
+    3300044: t_block_5
+    3300046: 1x1_Instance
+    3300048: 1x2_Instance
+    3300050: 2_5x2_Instance
+    3300052: 2x2_Instance
+    3300054: Cube_Instance
+    3300056: L_block_Instance
+    3300058: L_block_Instance_1
+    3300060: L_block_Instance_2
+    3300062: L_block_Instance_3
+    3300064: L_block_Instance_4
+    3300066: t_block_Instance
+    3300068: t_block_Instance_1
+    3300070: t_block_Instance_2
+    3300072: t_block_Instance_3
+    3300074: tagger_spawn
+    4300000: Cube
+    4300002: 2_5x2
+    4300004: 2x2
+    4300006: 1x1
+    4300008: L_block
+    4300010: L_block_2
+    4300012: L_block_3
+    4300014: L_block_4
+    4300016: L_block_5
+    4300018: 1x2
+    4300020: t_block
+    4300022: t_block_2
+    4300024: t_block_3
+    4300026: t_block_4
+    4300028: Plane
+    4300030: Cube_2
+    4300032: 2_5x2_2
+    4300034: 2x2_2
+    4300036: long
+    4300038: 1x1_2
+    4300040: L_block_6
+    4300042: 1x2_2
+    4300044: t_block_5
+    4300046: Cube_Instance
+    4300048: 2_5x2_Instance
+    4300050: 2x2_Instance
+    4300052: 1x1_Instance
+    4300054: L_block_Instance_4
+    4300056: 1x2_Instance
+    4300058: t_block_Instance_3
+    4300060: tagger_spawn
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 983edc90c23b6f245a1711cac559ec72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.2
+    second: {fileID: 2100000, guid: 983edc90c23b6f245a1711cac559ec72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.3
+    second: {fileID: 2100000, guid: 983edc90c23b6f245a1711cac559ec72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.4
+    second: {fileID: 2100000, guid: 983edc90c23b6f245a1711cac559ec72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.5
+    second: {fileID: 2100000, guid: 983edc90c23b6f245a1711cac559ec72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 983edc90c23b6f245a1711cac559ec72, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["L_block_Instance_4","long","Plane","t_block_Instance_3","Cube_Instance","2x2_Instance","1x1_Instance","1x2_Instance","2_5x2_Instance","tagger_spawn"],"padding":[26,24,7,22,12,28,37,33,27,18],"unwrapper":[0,0,0,0,0,0,0,0,0,0]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 2
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

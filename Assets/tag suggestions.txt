@@ -1,0 +1,40 @@
+make non moving people visable.
+*teleport forzen players back to frozen spot if they move too far.
+*make above bounds respawn player.
+
+itterate through each player before calling player teleport?
+*taggers slightly slower.
+*fredundancy teleporter to make sure everyone makes it back.
+
+*add dev controls
+counter of people ingame/tagged
+jail system for frozen players
+
+12sec timer. cant exit door. close door at 5.
+
+audio when tagged.
+
+use server time to compare tags and undoing unfrozen tags.
+
+random speed for each user game.
+
+endgame. teleport everyone, stop game
+
+votestart
+
+*detect speed of player to block speed hacks.
+
+adding untag grave peried.2.5
+
+*version numbering.
+audio volume.
+
+add debug checker to output error text in scene.
+
+add checker to make sure everyone in world has a collider.
+
+*spawn stuck checker.
+
+*respawn fix move teleports to compensate.
+
+*switch top to player layer.

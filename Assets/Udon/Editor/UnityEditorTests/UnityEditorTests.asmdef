@@ -1,0 +1,22 @@
+{
+    "name": "UnityEditorTests",
+    "references": [
+        "VRC.Udon.Editor",
+        "VRC.Udon",
+        "VRC.Udon.Tests"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

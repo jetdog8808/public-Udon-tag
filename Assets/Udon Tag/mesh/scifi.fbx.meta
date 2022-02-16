@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 604fe163710929f43a2ee9847e5f8235
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1x2_wall
+    100002: 1x4_wall
+    100004: 1x4_wall_2
+    100006: 1x4_wall_3
+    100008: barrior
+    100010: circle_wall
+    100012: floor_tile
+    100014: //RootNode
+    400000: 1x2_wall
+    400002: 1x4_wall
+    400004: 1x4_wall_2
+    400006: 1x4_wall_3
+    400008: barrior
+    400010: circle_wall
+    400012: floor_tile
+    400014: //RootNode
+    2100000: Mat
+    2300000: 1x2_wall
+    2300002: 1x4_wall
+    2300004: 1x4_wall_2
+    2300006: 1x4_wall_3
+    2300008: barrior
+    2300010: circle_wall
+    2300012: floor_tile
+    3300000: 1x2_wall
+    3300002: 1x4_wall
+    3300004: 1x4_wall_2
+    3300006: 1x4_wall_3
+    3300008: barrior
+    3300010: circle_wall
+    3300012: floor_tile
+    4300000: floor_tile
+    4300002: barrior
+    4300004: circle_wall
+    4300006: 1x4_wall_3
+    4300008: 1x4_wall_2
+    4300010: 1x4_wall
+    4300012: 1x2_wall
+    6400000: 1x2_wall
+    6400002: 1x4_wall
+    6400004: 1x4_wall_2
+    6400006: 1x4_wall_3
+    6400008: barrior
+    6400010: circle_wall
+    6400012: floor_tile
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat
+    second: {fileID: 2100000, guid: 0c8fa00ea378adb45be7aa8040ddef37, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
